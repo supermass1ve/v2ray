@@ -1,4 +1,4 @@
-git clone https://github.com/233boy/v2ray
+git clone https://github.com/supermass1ve/v2ray
 
 cd v2ray
 
